@@ -3,12 +3,12 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*"
     },
     "files": [
         "README.md",
-        "main.py"
+        "main.py",
+        "main.ts"
     ],
     "testFiles": [],
     "supportedTargets": [
