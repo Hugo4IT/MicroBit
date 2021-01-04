@@ -1,3 +1,7 @@
+//  Please only use this library on python projects as javascript/typescript
+//  has a more efficient way of storing bytes and the javascript to python
+//  conversion by microsoft makecode isnt perfect. In the future i'll maybe
+//  make a javascript version of this library
 //  Use by calling the function with an array of numbers that form the image
 function ShowImage(imgarray: number[][]) {
     for (let y = 0; y < imgarray.length; y++) {
