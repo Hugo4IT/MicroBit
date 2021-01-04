@@ -1,5 +1,5 @@
 {
-    "name": "Untitled",
+    "name": "Show an Image on the LEDs",
     "description": "",
     "dependencies": {
         "core": "*",
